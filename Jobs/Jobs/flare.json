@@ -1,0 +1,102 @@
+[
+  {
+  "job_name": "conceptualize",
+  "parent_job_names": "development",
+  "expected_start_PST": "00:00",
+  "expected_end_PST": "00:15"
+
+},
+
+{
+"job_name": "sketch",
+"parent_job_names": "development",
+"expected_start_PST": "03:00",
+"expected_end_PST": "03:15"
+
+},
+
+{
+"job_name": "color profiles",
+"parent_job_names": "development",
+"expected_start_PST": "06:00 ",
+"expected_end_PST": "06:15"
+},
+
+{
+"job_name": "HTML",
+"parent_job_names": "coding",
+"expected_start_PST": "01:00",
+"expected_end_PST": "01:15"
+
+},
+
+{
+"job_name": "write the JS",
+"parent_job_names": "coding",
+"expected_start_PST": "07:00",
+"expected_end_PST": "07:15"
+},
+
+{
+"job_name": "advertise",
+"parent_job_names": "promotion",
+"expected_start_PST": "10:00",
+"expected_end_PST": "10:15"
+
+},
+
+{
+"job_name": "spam links",
+"parent_job_names": "promotion",
+"expected_start_PST": "11:00",
+"expected_end_PST": "11:15"
+},
+
+{
+"job_name": "eat",
+"parent_job_names": "celebration,promotion",
+"expected_start_PST": "02:00",
+"expected_end_PST": "02:15"
+
+},
+{
+"job_name": "advertise",
+"parent_job_names": "promotion,celebration",
+"expected_start_PST": "09:15",
+"expected_end_PST": "09:30"
+
+},
+{
+"job_name": "crying",
+"parent_job_names": "celebration",
+"expected_start_PST": "04:00",
+"expected_end_PST": "04:15"
+},
+{
+"job_name": "development",
+"parent_job_names": "development",
+"expected_start_PST": "02:15",
+"expected_end_PST": "02:30"
+},
+{
+"job_name": "coding",
+"parent_job_names": "coding",
+"expected_start_PST": "03:45",
+"expected_end_PST": "04:00"
+},
+{
+
+"job_name": "promotion",
+"parent_job_names": "promotion",
+"expected_start_PST": "05:00",
+"expected_end_PST": "05:15"
+},
+{
+
+"job_name": "celebration",
+"parent_job_names": "celebration",
+"expected_start_PST": "08:15",
+"expected_end_PST": "08:30"
+}
+
+]
